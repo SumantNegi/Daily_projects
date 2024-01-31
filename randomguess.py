@@ -25,8 +25,8 @@ else:
             guess= int(input("enter new guess :"))
         continue
     if guess == random_no:
-            print("correct guess")
-            quit()
+        print("correct guess")
+        
     
         
     
